@@ -1,7 +1,7 @@
 ![](https://upload.wikimedia.org/wikipedia/en/8/85/Scala_logo.png)
 
 ## 환경설정
-- [Scala 2.12.1 binaries](http://www.scala-lang.org/download/)
+- [Scala 2.12.2 binaries](http://www.scala-lang.org/download/)
 - [Scala IDE for Eclipse](http://scala-ide.org/download/sdk.html)
 - [Scala support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
 - [IntelliJ - Scala Plugin](https://plugins.jetbrains.com/plugin/?id=1347)
