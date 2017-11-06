@@ -1,7 +1,7 @@
 ![](https://upload.wikimedia.org/wikipedia/en/8/85/Scala_logo.png)
 
 ## 환경설정
-- [Scala 2.12.2 binaries](http://www.scala-lang.org/download/)
+- [Scala 2.12.4 binaries](http://www.scala-lang.org/download/)
 - [Scala IDE for Eclipse](http://scala-ide.org/download/sdk.html)
 - [Scala support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
 - [IntelliJ - Scala Plugin](https://plugins.jetbrains.com/plugin/?id=1347)
@@ -24,6 +24,7 @@
 - [Scala For Java Programmers](http://www.slideshare.net/ennorunne/scala-for-java-programmers-2973915)
 - [[H3 2012] 꽃보다 Scala](http://www.slideshare.net/kthcorp/scala-15041890)
 - [Scala Days NYC 2016](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
+- [자바 전문가를 위한 스칼라 프로그래밍 언어](https://www.slideshare.net/jongwookkim/scala-for-java-gurus)
 
 ## 동영상
 - [coursera 스칼라 강의](https://class.coursera.org/progfun-005)
@@ -35,3 +36,5 @@
 - [함수형 사고](http://book.naver.com/bookdb/book_detail.nhn?bid=10741266)
 - [자바 개발자를 위한 함수형 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=7085406)
   - [리얼타임 eBook](http://www.hanbit.co.kr/store/books/look.php?p_code=E7510465152)
+- [러닝 스칼라](http://book.naver.com/bookdb/book_detail.nhn?bid=11912125)
+- [누구나 쉽게 스칼라+플레이 (스칼라 입문부터 게시판, 채팅 프로그램 제작까지)](http://book.naver.com/bookdb/book_detail.nhn?bid=11214039)
